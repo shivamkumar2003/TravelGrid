@@ -69,7 +69,7 @@
 - 🔹 Unified platform for booking flights, hotels, and vehicles  
 - 🤖 **AI-Powered Travel Assistant** for itinerary, budget & recommendations  
 - 🌍 Dynamic destination discovery with real-time insights  
-- 💬 Community-driven open-source project under **GSSoC’25**  
+- ⚡ Fast and seamless booking experience with optimized performance  
 - 📱 Fully responsive UI built with Tailwind CSS  
 
 ---
